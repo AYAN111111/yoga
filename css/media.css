@@ -1,0 +1,632 @@
+/* // Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) { 
+    /* Navbar */
+    #nav{
+        padding: 0px;
+    }
+    #nav-toggler{
+        margin-right: 10px;
+    }
+    .nav-text {
+        padding-left: 20px;
+    }
+    #nav-service{
+        margin-right: 260px;
+    }
+
+    /* Section-1 */
+    #section-1-col-1{
+        background-size: 94% 91%;
+        background-position-x: 10px;
+        background-position-y: 8px;
+        height: auto;
+    }
+    #section-1-col-2{
+        background-image: url(../img/section-1-back-img-2.png);
+        background-repeat: no-repeat;
+        background-size: 45% 100%;
+        background-position-x: 231px;
+        background-position-y: 126px;
+        height: auto;
+    }
+    
+    .section-1-img{
+        width: 64%;
+        height: 57%;
+        margin-left: 61px;
+        margin-top: 54px;
+    }
+    #section-1{
+        height: auto;
+    }
+    .section-1-h1{
+        padding: 0%;
+        margin-top: -15px;
+        line-height: 90px;
+        font-size: 62px;
+    }
+    .section-1-para{
+        margin-top: 0px;
+        font-size: 16px;
+        }
+    #section-1-btn{
+        margin-left: 104px;
+        margin-bottom: 30px;
+    }
+
+
+    /* Section-2 */
+    #section-2{
+        height: auto;
+        padding-bottom: 60px;
+        background-size: 40% 15%;
+        background-position-x: 234px;
+        background-position-y: -128px;
+    }
+    .section-2-h1{
+        font-size: 50px;
+    }
+    .section-2-para{
+        font-size: 13px;
+    }
+    .section-2-col-img{
+        margin-top: 45px;
+        margin-left: 20px;
+
+    }
+    .section-2-col-h1{
+        margin: 0%;
+    }
+    #section-2-col{
+        height: auto;
+    }
+
+
+ /* Section-3 */
+ #section-03{
+    height: auto;
+    background-size: cover;
+    background-position: center;
+ }
+ .section-3-h1{
+    font-size: 60px;
+ }
+ .section-3-para{
+    font-size: 14px;
+ }
+ #section-3-col {
+    height: auto;
+    background-position: center;
+    background-size: 87% 100%;
+    padding-bottom: 50px;    
+ }
+ .section-3-col-1-para{
+    font-size: 19px;
+ }
+ .section-3-col-2-para{
+    font-size: 19px;
+ }
+ .section-3-col-3-para{
+    font-size: 19px;
+ }
+
+
+ /* Section-4 */
+ 
+.section-4-col-1-h1 {
+    padding-top: 50px;
+    padding-left: 15px;
+    font-size: 60px;
+}
+.section-4-col-1-para {
+    font-size: 19px;
+    padding-left: 20px;
+}
+#section-4-col-1-btn {
+    width: 250px;
+    margin-left: 50px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.section-4-col-2-img{
+    height: 100%;
+}
+#section-4{
+    height: 100%;
+}
+
+/* Section-5 */
+.section-5-col-1-img{
+    width: 100%;
+    margin-left: 0px;
+}
+.section-5-col-2-h1{
+    font-size: 55px;
+    padding-left: 10px;
+    padding-top: 50px;
+}
+.section-5-col-2-para{
+    padding-left: 10px;
+    font-size: 18px;
+}
+#section-5-col-2-btn{
+    width: 263px;
+    margin-left: 42px;
+    margin-bottom: 20px;
+}
+#section-5-col-2{
+    height: auto;
+}
+
+
+/* Section-6 */
+#section-6{
+    height: auto;
+    margin-top: 50px;
+}
+.section-6-h1{
+    padding-top: 40px;
+}
+.section-6-para {
+    font-size: 14px;
+}
+#section-6-card{
+    width: 100%;
+    height: auto;
+    margin-bottom: 30px;
+}
+.section-6-card-img{
+    margin-left: 120px;
+}
+#section-6-card-btn{
+    width: 302px;
+}
+
+/* Section-7 */
+.section-7-img-main{
+    margin-left: 9px;
+}
+#section-7{
+    background-size: cover;
+    background-position: center;
+    height: auto;
+}
+.section-7-para{
+    font-size: 16px;
+}
+.section-7-h1 {
+    font-size: 25px;
+    padding-top: 10px;
+    padding-bottom: 30px;
+}
+.section-7-img{
+    background-position-x: -32px;
+    background-position-y: 68px;
+}
+
+/* Section-8 */
+#section-8{
+    height: auto;
+}
+.section-8-h1{
+    font-size: 32px;
+}
+.section-8-para{
+    font-size: 12px;
+}
+.email{
+    width: 230px;
+    margin-left: 30px;
+    height: 55px;
+    margin-bottom: 30px;
+}
+#subcribe {
+    left: 200px;
+    font-size: 20px;
+    width: 150px;
+    height: 55px;
+    margin-bottom: 30px;
+}
+
+/* Footer */
+#footer{
+    height: auto;
+}
+#footer-col{
+    padding: 0px;
+}
+.footer-col-1-para{
+    font-size: 18px;
+    padding-left: 34px;
+}
+.footer-col-1-h1 {
+    padding-left: 34px;
+}
+.footer-col-2-h1 {
+    padding-left: 40px;
+}
+.footer-col-2-para {
+    padding-left: 40px;
+}
+}
+
+
+/* // Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) { 
+
+    
+    
+
+ }
+
+/* // Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) { 
+    /* Navbar */
+    #nav{
+        padding: 0px;
+    }
+    #nav-toggler{
+        margin-right: 10px;
+    }
+    .nav-text {
+        padding-left: 280px;
+    }
+    #nav-service{
+        margin-right: 350px;
+    }
+
+    /* Section-1 */
+    
+    #section-1-col-1{
+        background-size: 100% 100%;
+        background-position-x: 0px;
+        background-position-y: 0px;
+        height: auto;
+    }
+    
+    .section-1-img{
+        width: 60%;
+        height: 60%;
+        margin-left: 86px;
+        margin-top: 67px;
+    }
+    #section-1{
+        height: auto;
+    }
+    .section-1-h1{
+        padding: 0%;
+        margin-top: 40px;
+        font-size: 60px;
+        line-height: 90px;
+    }
+    .section-1-para{
+        margin-top: 0px;
+        font-size: 14px;
+        }
+    #section-1-btn{
+        margin-left: 85px;
+        margin-bottom: 30px;
+    }
+    #section-1-col-2{
+        background-size: 100% 100%;
+        background-position-x: 0px;
+        background-position-y: 199px;
+        height: auto;
+    }
+
+
+
+ /* Section-2 */
+ #section-2{
+    height: auto;
+    background-size: 33% 48%;
+    background-position-x: 557px;
+    background-position-y: -196px;
+ }
+ #section-2-col{
+    background-size: 90% 40%;
+ }
+ .section-2-col-img{
+    height: 30%;
+    width: 70%;
+    margin-top: 36px;
+    margin-left: 35px;
+ }
+ .section-2-col-h1 {
+    font-size: 30px;
+ }
+ .section-2-col-para {
+    font-size: 16px;
+ }
+
+
+ /* Section-3 */
+ #section-3{
+    height: 975px;
+    background-size: cover;
+    background-position: center;
+ }
+#section-3-col{
+    background-size: 80% 45%;
+    background-position-x: 22px;
+}
+.section-3-col-1-h1{
+    margin-top: 40px;
+    margin-bottom: 0px;
+}
+.section-3-col-2-h1{
+    margin-top: 40px;
+    margin-bottom: 0px;
+}
+.section-3-col-3-h1{
+    margin-top: 40px;
+    margin-bottom: 0px;
+}
+.section-3-col-1-para {
+    font-size: 17px;
+}
+.section-3-col-2-para {
+    font-size: 17px;
+}
+.section-3-col-3-para {
+    font-size: 17px;
+}
+.section-3-para{
+    margin-bottom: 100px;
+}
+
+ /* Section-4 */
+ .section-4-col-1-h1{
+    font-size: 55px;
+    padding-left: 40px;
+    padding-top: 70px;
+ }
+ .section-4-col-1-para{
+    font-size: 20px;
+    padding-left: 40px;
+ }
+ #section-4-col-1-btn{
+    margin-left: 40px;
+ }
+#section-4{
+    height: auto;
+}
+
+/* Section-5 */
+.section-5-col-1-img{
+    width: 100%;
+}
+.section-5-col-2-h1{
+    padding-left: 10px;
+    padding-top: 190px;
+    font-size: 65px;
+}
+.section-5-col-2-para{
+    font-size: 20px;
+    padding-left: 10px;
+}
+#section-5-col-2-btn{
+    width: 280px;
+    margin-left: 10px;
+}
+
+/* Section-6 */
+#section-6-card{
+    width: 242px;
+    height: 466px;
+}
+#section-6-card-h1 {
+    font-size: 28px;
+}
+.section-6-card-img{
+    margin-left: 66px;
+}
+#section-6-card-para{
+    font-size: 14px;
+}
+#section-6-card-btn{
+    width: 200px;
+    font-size: 23px;
+}
+
+/* Section-7 */
+.section-7-img-main {
+    margin-left: 258px;
+}
+.section-7-img{
+    background-position-x: 216px;
+}
+.section-7-para {
+    font-size: 35px;
+}
+
+/* Section-8 */
+#section-8{
+    height: auto;
+}
+.email{
+    width: 450px;
+    margin-left: 88px;
+    margin-bottom: 30px;
+}
+#subcribe {
+    left: 496px;
+}
+
+
+/* Footer */
+#footer{
+    height: auto;
+}
+.footer-col-1-para{
+    font-size: 13px;
+}
+.footer-col-2-para{
+    font-size: 14px;
+}
+ }
+
+ 
+
+/* // Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+    /* Navbar */
+    #nav{
+        width: 100%;
+    }
+    #nav-home{
+        padding-right: 40px;
+    }
+    #nav-about{
+        padding-right: 40px;
+    }
+    #nav-service{
+        margin-right: 40px;
+    }
+    #nav-contact{
+        padding-right: 40px;
+    }
+
+    
+    /* Section-1 */
+    
+    #section-1-col-1{
+        background-size: 100% 100%;
+        background-position-x: 0px;
+        background-position-y: 0px;
+        height: auto;
+    }
+   
+    .section-1-img{
+        width: 60%;
+        height: 60%;
+        margin-left: 113px;
+        margin-top: 86px;
+    }
+    #section-1{
+        height: auto;
+    }
+    .section-1-h1{
+        padding: 0%;
+        margin-top: 40px;
+        font-size: 60px;
+        line-height: 90px;
+    }
+    .section-1-para{
+        margin-top: 0px;
+        font-size: 14px;
+        }
+    #section-1-btn{
+        margin-left: 140px;
+    }
+    #section-1-col-2{
+        background-size: 100% 100%;
+        background-position-x: 0px;
+        background-position-y: 199px;
+        height: auto;
+    }
+
+    /* Section-2 */
+    .section-2-col-img{
+        margin-left: 5px;
+    }
+    #section-2-col{
+        background-size: 342px 375px;
+    }
+
+ /* Section-3 */
+ #section-3{
+    height: auto;
+ }
+ #section-3-col{
+    background-position-x: 4px;
+ }
+
+ /* Section-5 */
+.section-5-col-1-img{
+    width: 100%;
+}
+.section-5-col-2-h1{
+    padding-left: 10px;
+    padding-top: 190px;
+    font-size: 65px;
+}
+.section-5-col-2-para{
+    font-size: 20px;
+    padding-left: 10px;
+}
+#section-5-col-2-btn{
+    width: 280px;
+    margin-left: 10px;
+}
+
+
+/* Section-6 */
+#section-6{
+    height: auto;
+    margin-top: 50px;
+}
+.section-6-h1{
+    padding-top: 40px;
+}
+.section-6-para {
+    font-size: 30px;
+}
+#section-6-card{
+    width: 308px;
+    height: auto;
+    margin-bottom: 30px;
+}
+.section-6-card-img{
+    margin-left: 99px;
+}
+#section-6-card-para{
+    font-size: 17px;
+}
+#section-6-card-btn{
+    width: 265px;
+}
+
+
+/* Section-7 */
+.section-7-img-main {
+    margin-left: 325px;
+}
+.section-7-img{
+    background-position-x: 283px;
+}
+.section-7-para {
+    font-size: 35px;
+}
+
+/* Section-8 */
+#section-8{
+    height: auto;
+}
+.email{
+    width: 450px;
+    margin-left: 195px;
+    margin-bottom: 30px;
+}
+#subcribe {
+    left: 600px;
+}
+
+
+/* Footer */
+#footer{
+    height: auto;
+}
+.footer-col-1-para{
+    font-size: 17px;
+}
+.footer-col-2-para{
+    font-size: 17px;
+}
+
+
+}
+
+
+/* // Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) { ... }

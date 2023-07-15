@@ -1,0 +1,477 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    overflow-x: hidden;
+}
+
+/* Navbar */
+.nav-logo-main{
+
+}
+.nav-logo-div{
+
+}
+#nav{
+    height: 134px;
+    padding-right: 0px;
+    background-color: #f4f9f4;
+}
+.nav-text{
+    padding-left: 341px;
+}
+#nav-home{
+    font-family: 'Baloo Bhai 2', cursive;
+    font-size: 20px;
+    color: #494f4e;
+    padding-right: 100px;
+}
+#nav-about{
+    font-family: 'Baloo Bhai 2', cursive;
+    font-size: 20px;
+    color: #494f4e;
+    padding-right: 100px;
+}
+#nav-service{
+    font-family: 'Baloo Bhai 2', cursive;
+    font-size: 20px;
+    color: #494f4e;
+    margin-right: 100px;
+    background-color: #c7d9d5;
+}
+#nav-contact{
+    font-family: 'Baloo Bhai 2', cursive;
+    font-size: 20px;
+    color: #494f4e;
+    padding-right: 100px;
+}
+#navbarSupportedContent{
+    background-color: #e2ede8;
+}
+
+/* Section-1 */
+#section-1{
+    height: 840px;
+    background-color: #f4f9f4;
+}
+.section-1-img{
+    margin-top: 134px;
+    margin-left: 121px;
+}
+.section-1-h1{
+    font-family: 'Baloo Bhai 2', cursive;
+    font-size: 95px;
+    color: #6c9894;
+    text-align: center;
+    padding-top: 230px;
+    padding-left: 0px;
+}
+.section-1-para{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    color: #6c9894;
+    text-align: center;
+    margin-top: -40px;
+    padding-left: 0px;
+}
+#section-1-btn{
+    height: 30px;
+    width: 175px;
+    border-radius: 10px;
+    font-family: 'Lato', sans-serif;
+    font-size: 17px;
+    color: #fefefc;
+    background-color: #6c9894;
+    border: none;
+    padding-top: 2px;
+    margin-left: 160px;
+}
+#section-1-col-1{
+    background-image: url(../img/section-1-back-img-1.png);
+    background-repeat: no-repeat;
+    height: 840px;
+
+}
+#section-1-col-2{
+    padding: 0px;
+    background-image: url(../img/section-1-back-img-2.png);
+    background-repeat: no-repeat;
+    background-position-x: 155px;
+    background-position-y: 486px;
+    height: 840px;
+}
+
+/* Section-2 */
+#section-2{
+    height: 970px;
+    background-color: #6c9894;
+    background-image: url(../img/section-1-back-img-2.png);
+    background-repeat: no-repeat;
+    background-size: 29% 78%;
+    background-position-x: 895px;
+    background-position-y: -360px;
+}
+.section-2-h1{
+    font-family: 'Baloo Bhai 2', cursive;
+    font-size: 75px;
+    color: #f4f9f4;
+    text-align: center;
+    padding-top: 70px;
+}
+.section-2-para{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 29px;
+    color: #f4f9f4;
+    text-align: center;
+}
+#section-2-col{
+    background-image: url(../img/section-2-back-img.png);
+    background-repeat: no-repeat;
+    background-position-x: 10px;
+    background-position-y: 10px;
+    height: 500px;
+}
+.section-2-col-img{
+    margin-top: 43px;
+    margin-left: 45px;
+}
+.section-2-col-h1{
+    font-family: 'Baloo Bhai 2', cursive;
+    font-size: 36px;
+    color: #f4f9f4;
+    text-align: center;
+    padding-top: 40px;
+}
+.section-2-col-para{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 22px;
+    color: #f4f9f4;
+    text-align: center;
+}
+
+
+/* Section-3 */
+#section-03{
+    height: 936px;
+    background-image: url(../img/section-3-back-design.png),url(../img/section-3-back-img.png);
+    background-repeat: no-repeat;
+    background-position-x: 0px;
+    background-position-y: -75px;
+
+}
+.section-3-h1{
+    font-family: 'Baloo Bhai 2', cursive;
+    font-size: 75px;
+    color: #6c9894;
+    text-align: center;
+    padding-top: 70px;
+}
+.section-3-para{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 29px;
+    color: #6c9894;
+    text-align: center;
+}
+
+#section-3-col{
+    background-image: url(../img/section-3-col-back.png);
+    background-position-x: 43px;
+    background-position-y: 0px;
+    background-repeat: no-repeat;
+    height: 550px;
+}
+.section-3-col-1-h1{
+    font-size: 66px;
+    color: #6c9894;
+    text-align: center;
+    margin-top: 55px;
+
+}
+.section-3-col-1-para{
+    font-size: 26px;
+    color: #6c9894;
+    text-align: center;
+}
+
+.section-3-col-2-h1{
+    font-family: 'Baloo Bhai 2', cursive;
+    font-size: 66px;
+    color: #6c9894;
+    text-align: center;
+    margin-top: 55px;
+
+}
+.section-3-col-2-para{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 26px;
+    color: #6c9894;
+    text-align: center;
+}
+
+.section-3-col-3-h1{
+    font-family: 'Baloo Bhai 2', cursive;
+    font-size: 66px;
+    color: #6c9894;
+    text-align: center;
+    margin-top: 55px;
+
+}
+.section-3-col-3-para{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 26px;
+    color: #6c9894;
+    text-align: center;
+}
+
+
+/* Section-4 */
+#section-4{
+    height: 855px;
+    margin-top: 0px;
+}
+.section-4-col-1-h1{
+    font-family: 'Baloo Bhai 2', cursive;
+    font-size: 75px;
+    color: #f4f9f4;
+    padding-left: 50px;
+    padding-top: 210px;
+    line-height: 80px;
+}
+.section-4-col-1-para{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 29px;
+    color: #f4f9f4;
+    padding-left: 50px;
+
+}
+#section-4-col-1{
+    padding: 0%;
+    background-color: #6c9894;
+}
+#section-4-col-2{
+    padding: 0%;
+}
+.section-4-col-2-img{
+    width: 100%;
+}
+#section-4-col-1-btn{
+    background-color: #f4f9f4;
+    height: 66px;
+    width: 320px;
+    border: none;
+    color: #6c9894;
+    font-family: 'Baloo Bhai 2', cursive;
+    font-size: 25px;
+    margin-left: 55px;
+    margin-top: 20px;
+}
+
+/* Section-5 */
+#section-5{
+    height: 970px;
+    background-image: url(../img/section-5-col-2-back.png);
+    background-repeat: no-repeat;
+    background-position-x: 770px;
+    background-position-y: -100px;
+}
+.section-5-col-1-img{
+    margin-top: 100px;
+    margin-left: 10px;
+}
+.section-5-col-2-h1{
+    font-family: 'Baloo Bhai 2', cursive;
+    font-size: 75px;
+    color: #6c9894;
+    line-height: 70px;
+    padding-top: 310px;
+    padding-left: 80px;
+}
+.section-5-col-2-para{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 29px;
+    color: #6c9894;
+    padding-left: 80px;
+}
+#section-5-col-2-btn{
+    background-color: #6c9894;
+    height: 66px;
+    width: 320px;
+    border: none;
+    color: #f4f9f4;
+    font-family: 'Baloo Bhai 2', cursive;
+    font-size: 25px;
+    margin-left: 85px;
+    margin-top: 20px;
+}
+
+/* Section-6 */
+#section-6{
+    height: 970px;
+    background-color: #6c9894;
+    background-image: url(../img/section-5-col-2-back.png);
+    background-repeat: no-repeat;
+    background-position-x: 770px;
+    background-position-y: -1072px;
+}
+.section-6-h1{
+    font-family: 'Baloo Bhai 2', cursive;
+    font-size: 75px;
+    color: #f4f9f4;
+    text-align: center;
+    margin: 0%;
+    padding-top: 100px;
+}
+.section-6-para{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 29px;
+    color: #f4f9f4;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+#section-6-card{
+    height: 493px;
+    width: 375px;
+}
+#section-6-card-h1{
+    font-family: 'Baloo Bhai 2', cursive;
+    font-size: 36px;
+    color: #6c9894;
+    text-align: center;
+    margin: 0%;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.section-6-card-img{
+    margin-left: 128px;
+}
+#section-6-card-para{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 22px;
+    color: #6c9894;
+    text-align: center;
+    padding-top: 20px;
+}
+#section-6-card-btn{
+    height: 65px;
+    width: 322px;
+    background-color: #6c9894;
+    color: #f4f9f4;
+    font-family: 'Baloo Bhai 2', cursive;
+    font-size: 25px;
+    border: none;
+    padding-top: 15px;
+    margin-top: 10px;
+}
+
+/* Section-7 */
+#section-7{
+    height: 970px;
+    background-image: url(../img/section-7-back-img.png);
+    background-repeat: no-repeat;    
+    background-size: cover;
+    background-position: center;
+
+}
+.section-7-img{
+    background-image: url(../img/section-7-design.png);
+    background-repeat: no-repeat;
+    height: 478px;
+    background-position-x: 400px;
+    background-position-y: 70px;
+}
+.section-7-img-main{
+    margin-left: 443px;
+    margin-top: 115px;
+}
+.section-7-para{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 58px;
+    color: #6c9894;
+    text-align: center;
+}
+.section-7-h1{
+    font-family: 'Baloo Bhai 2', cursive;
+    font-size: 58px;
+    color: #6c9894;
+    text-align: center;
+    font-weight: bold;
+    padding-top: 30px;
+}
+
+/* Section-8 */
+#section-8{
+    background-color: #6c9894;
+    height: 640px;
+}
+.section-8-h1{
+    font-family: 'Baloo Bhai 2', cursive;
+    font-size: 75px;
+    font-weight: bold;
+    color: #f4f9f4;
+    text-align: center;
+    padding-top: 90px;
+    margin: 0%;
+}
+.section-8-para{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 29px;
+    color: #f4f9f4;
+    text-align: center;
+}
+
+#subcribe{
+    height: 65px;
+    width: 224px;
+    background-color: #f4f9f4;
+    font-family: 'Baloo Bhai 2', cursive;
+    color: #6c9894;
+    font-size: 25px;
+    border: none;
+    position: absolute;
+    left: 782px;
+}
+.email{
+    height: 65px;
+    width: 572px;
+    border: none;
+    margin-left: 270px;
+    font-size: 20px;
+    padding-left: 30px;
+}
+.email-all{
+    margin-top: 40px;
+}
+
+/* Footer */
+#footer{
+    height: 550px;
+    background-color: #f4f9f4;
+}
+.footer-col-1-h1{
+    font-family: 'Baloo Bhai 2', cursive;
+    font-size: 33px;
+    color: #6c9894;
+    font-weight: bold;
+    padding-top: 100px;
+    padding-left: 25px;
+}
+.footer-col-2-h1{
+    font-family: 'Baloo Bhai 2', cursive;
+    font-size: 33px;
+    color: #6c9894;
+    font-weight: bold;
+    padding-top: 100px;
+}
+.footer-col-1-para{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 24px;
+    color: #6c9894;
+    line-height: 34px;
+    padding-left: 25px;
+}
+.footer-col-2-para{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 25px;
+    color: #6c9894;
+    line-height: 41px;
+}
